@@ -1,0 +1,15 @@
+//Dimensiones PFC// v1
+......Placa 1......
+200mm Span
+300mm Chord
+115,47mm Sweep == 30º Angle
+
+......Placa 2.......
+600mm Span
+170mm Chord
+279,78mm Sweep == 25º Angle
+
+Posibles modificaciones
+-Placa central nueva -> Disminuir Span placa 1
+-Mayor chord placa 1 y placa 2
+-Salida del motor?
