@@ -1,0 +1,13 @@
+..........Medidas diseño final...........
+--Placa central--
+Span 150mm (x2)
+Chord1.- 511mm
+Chord2.- 300mm
+Angle 6,65º
+Sweep 17.5mm
+--Placa Alar--
+Span 600mm
+Chord2 igual
+Chord3 170mm
+Sweep 300mm
+Angle 25,57º
